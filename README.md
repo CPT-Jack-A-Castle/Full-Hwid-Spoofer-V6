@@ -2,7 +2,7 @@
 - Windows Version? Windows 11/10 all version "haven't tried on older windows"
 - Does it work with AMD CPU and Motherboard? tested and it works on AMD and INTEL motherboard and CPU.
 - Does it require format? No, but you will need to delete the game before starting the spoofer.
-- Is it easy? Yes!
+- Is it easy? Yes!.
 - Is it one-click spoof? Yes, the new version of it is a 1click.
 - Is it permanent? Yes, even if you formatted your PC, you will be spoofed forever.
 - Can I unspoof after spoofing? For unlimited users, Yes, but for the one time use, No.
